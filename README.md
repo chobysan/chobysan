@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikola Chobanov
 - 👀 I’m interested in Digital art and coding
 - 🌱 I’m currently learning Java script
-- 📫 How to reach me chobbysa@gmail.com
+- 📫 How to reach me chobbysan@gmail.com
 
 <!---
 chobysan/chobysan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
